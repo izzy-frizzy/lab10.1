@@ -1,6 +1,6 @@
 
-import { useState, useEffect, useCallback } from "react";
-import "./App.css";
+import { useState, useEffect, } from "react";
+
 
 function App() {
   // Initialize count from localStorage
